@@ -4,7 +4,7 @@ Hello, I'm Lam Tsz Hoi!
 
 My student number is 1155143814.
 
-{% include_relative code.c %}
+{%include "code.c" %}
 
 # Code
 
