@@ -8,3 +8,4 @@ My student number is 1155143814.
 {% highlight c %} 
 printf("%d\n", 1 == 0);
 {% endhighlight %}
+{% include code.c %}
